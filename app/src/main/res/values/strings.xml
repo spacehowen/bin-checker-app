@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bin Checker</string>
+    <string name="texto_titulo">INGRESE LOS SEIS (06) PRIMEROS DÍGITOS DE LA TARJETA DE CREDITO</string>
+    <string name="btn_buscar">BUSCAR</string>
+    <string name="tarjeta_sistema">Sistema de Pago</string>
+    <string name="tarjeta_tipo">Tipo</string>
+    <string name="tarjeta_pais">País</string>
+    <string name="tarjeta_marca">Marca</string>
+    <string name="tarjeta_moneda">Moneda</string>
+    <string name="ingrese_tarjeta">Ingrese Tarjeta</string>
+</resources>
